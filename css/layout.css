@@ -328,35 +328,35 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.nuxtjs {
   	width: 40%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: nuxtjs 2s ease;
+  	-webkit-animation: nuxtjs 2s ease;
+}
+.django {
+  	width: 65%;
+  	-moz-animation: django 2s ease;
+  	-webkit-animation: django 2s ease;
+}
+.vuejs {
+  	width: 50%;
+  	-moz-animation: vuejs 2s ease;
+  	-webkit-animation: vuejs 2s ease;
+}
+.bootstrap {
+  	width: 70%;
+  	-moz-animation: bootstrap 2s ease;
+  	-webkit-animation: bootstrap 2s ease;
 }
 .python {
-  	width: 65%;
+  	width: 80%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
-.wordpress {
+.javascript {
   	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
-.css {
-  	width: 70%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
-}
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: javascript 2s ease;
+  	-webkit-animation: javascript 2s ease;
 }
 .cpp {
   	width: 70%;
@@ -364,27 +364,27 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: cpp 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes nuxtjs {
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-moz-keyframes python {
+@-moz-keyframes django {
   0%   { width: 0px;  }
   100% { width: 65%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes vuejs {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes bootstrap {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes python {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes javascript {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
@@ -393,27 +393,27 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 70%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes nuxtjs {
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-webkit-keyframes python {
+@-webkit-keyframes django {
   0%   { width: 0px;  }
   100% { width: 65%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes vuejs {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes bootstrap {
   0%   { width: 0px;  }
   100% { width: 70%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes python {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes javascript {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
